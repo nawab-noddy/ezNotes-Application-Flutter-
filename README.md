@@ -12,13 +12,6 @@ Designed with a clean UI inspired by Google Keep, `ezNotes` offers persistent lo
 * **Staggered Grid Layout:** Dynamic UI that adjusts to note content length.
 * **Clean Architecture:** Code separated into Models, Database (Service), and Screens (UI).
 
-## 📱 Screenshots
-
-| Home Screen (Grid) | Search Feature | Add/Edit Note |
-|:---:|:---:|:---:|
-| ![Home Screen](https://via.placeholder.com/200x400?text=Home+Screen) | ![Search](https://via.placeholder.com/200x400?text=Search) | ![Edit Note](https://via.placeholder.com/200x400?text=Edit+Note) |
-
-*(Replace the links above with your actual screenshot URLs after uploading)*
 
 ## 🛠️ Tech Stack
 
